@@ -1,0 +1,14 @@
+#juego{
+	height: 600px;
+	width: 600px;
+	position: relative;
+}
+
+.pieza{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	background-position: center;
+	background-size: cover;
+}
+
